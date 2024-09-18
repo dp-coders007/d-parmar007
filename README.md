@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UI/UX Designing
 - 💞️ I’m looking to collaborate on Instagram
 - 📫 How to reach me :- dpcoders007@gmail.com
-- 😊 Instagram :- dp_coders007
+- 😊 Instagram :- dp_coders_007
 
 <!---
 d-parmar007/d-parmar007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
